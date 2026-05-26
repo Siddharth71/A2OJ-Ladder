@@ -3,7 +3,7 @@
  For beginners, unrated users or users with Codeforces Rating < 1300.
 ## Difficulty Level: 2
 
-| Checkbox | ID  | Problem Name | Online Judge | Difficulty | Important
+| Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
 |<ul><li>- [ ] Done</li></ul>|1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
